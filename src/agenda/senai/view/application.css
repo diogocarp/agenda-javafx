@@ -1,0 +1,7 @@
+
+.fundo{
+	
+	-fx-background-image: url(../imagens/istockphoto-1036708146-612x612.jpg);
+	-fx-background-repeat: no-repeat; 
+	-fx-background-size: stretch ;	
+}
